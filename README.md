@@ -73,13 +73,13 @@
 ---
 ---
 
-## Fun Fact
+## Fun Fact:
 
 >  I think “Hello, World!” is poetry. ^̮^
 
 ---
 
-## Contribution Calendar
+## Contribution Calendar:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-N-28&theme=rogue" alt="Aditi's Contribution Graph"/>
@@ -87,7 +87,7 @@
 
 ---
 
-## Quote of the Day
+## Quote of the Day:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
