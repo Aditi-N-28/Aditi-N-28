@@ -76,7 +76,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-N-28&theme=radical" alt="Aditi's GitHub Streak"/>
 </p>
 
 ---
