@@ -12,14 +12,14 @@
 
 ---
 
-## About Me
+## About Me:
 
 - 🌱 **Specializing in DevOps, cloud automation, and full-stack development**
 - 🔬 **Passionate about building scalable, secure, and user-centric apps**
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## Notable Projects
+## Notable Projects:
 
 ### Meghalaya Migration & Urban Growth Dashboard  
 *Jan 2026 | Hackathon Project*  
@@ -71,18 +71,19 @@
 > Built a platform leveraging AI for actionable financial insights.
 
 ---
+---
 
-## GitHub Stats
+## Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
-</p>
+>  I think “Hello, World!” is poetry. ^̮^
 
-<!-- Optional: Contribution graph
+---
+
+## Contribution Calendar
+
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-N-28&theme=rogue" alt="Aditi's Contribution Graph"/>
 </p>
--->
 
 ---
 
@@ -91,3 +92,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
 </p>
+ 
