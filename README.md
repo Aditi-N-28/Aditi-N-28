@@ -89,7 +89,7 @@
 ## Quote of the Day:
 
 <p align="center">
-  <img src="https://vercel.app" alt="" />
+  <img src="https://vercel.app" alt=""/>
 </p>
 <p align="center">
   <a href="https://github.com">Quotes README Widget</a>
