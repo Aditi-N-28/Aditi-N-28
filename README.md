@@ -71,32 +71,26 @@
 > Built a platform leveraging AI for actionable financial insights.
 
 ---
+## Fun fact:
+ I think “Hello, World!” is poetry. ^̮^
+
+ ---
 
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-N-28&theme=radical" alt="Aditi's GitHub Streak"/>
 </p>
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-N-28&theme=rogue" alt="Aditi's Contribution Graph"/>
-</p>
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">GitHub Activity Graph</a>
-</p>
 
 ---
 
 ## Quote of the Day:
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=yellow" alt="Quote of the Day"/>
+  <img src="https://vercel.app" alt="Sakura Quote of the Day"/>
 </p>
 <p align="center">
-  <a href="https://github.com/piyushP7pravin/quotes-github-readme">Quotes README Widget</a>
+  <a href="https://github.com">Quotes README Widget</a>
 </p>
