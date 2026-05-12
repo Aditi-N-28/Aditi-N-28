@@ -11,7 +11,7 @@
 </p>
 <h3 align="center">🌐 My Portfolio
 
-[![Portfolio Website](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://Aditi-N-28.github.io/Portfolio/)</h3>
+[![Portfolio Website](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://Aditi-N-28.github.io/Portfolio/)
 [![Play my RPG Game](https://img.shields.io/badge/Visit-Game-yellow?style=for-the-badge)](https://Aditi-N-28.github.io/Portfolio/game/)</h3>
 
 ---
