@@ -2,7 +2,7 @@
 <!-- ![Banner](https://your-link-here/banner.png) -->
 
 <h1 align="center">Hi, I'm Aditi ヾ(＾∇＾)</h1>
-<h3 align="center">B.Tech in Computer Science(Specialisation in DevOps) | DevOps & Full-Stack Enthusiast</h3>
+<h3 align="center">B.Tech in Computer Science (Specialization in DevOps) | DevOps & Full-Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-DevOps-blue?style=flat-square" />
@@ -12,14 +12,14 @@
 
 ---
 
-## About Me:
+## About Me
 
 - 🌱 **Specializing in DevOps, cloud automation, and full-stack development**
 - 🔬 **Passionate about building scalable, secure, and user-centric apps**
 
 ---
 
-## Tech Stack:
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## Notable Projects:
+## Notable Projects
 
 ### Meghalaya Migration & Urban Growth Dashboard  
 *Jan 2026 | Hackathon Project*  
@@ -58,30 +58,36 @@
 
 ---
 
-### RouteWise: Intelligence-Driven Personal Safety & Navigation:  
+### RouteWise: Intelligence-Driven Personal Safety & Navigation  
 *Jan 2026 | Hackathon Project*  
 **Flutter, Dart, Google Maps SDK, Directions API, Places API**  
 > Developed a navigation MVP prioritizing the "safest route" in urban environments.
 
 ---
 
-### ArthaMind: AI-Driven Financial Intelligence Platform:
+### ArthaMind: AI-Driven Financial Intelligence Platform  
 *Nov 2025 | Hackathon Project*  
 **React, Firebase, Tailwind CSS, TypeScript, Replit**  
 > Built a platform leveraging AI for actionable financial insights.
 
 ---
 
-## GitHub Stats:
-<p align="center">
-  <img src="https://vercel.app" alt="Aditi's GitHub Stats" />
-</p>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Aditi's Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
 </p>
+
+<!-- Optional: Contribution graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-N-28&theme=rogue" alt="Aditi's Contribution Graph"/>
+</p>
+-->
 
 ---
 
-## Quote of the Day:
-![Quote](https://vercel.app)
+## Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
+</p>
