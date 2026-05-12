@@ -2,7 +2,7 @@
 <!-- ![Banner](https://your-link-here/banner.png) -->
 
 <h1 align="center">Hi, I'm Aditi ヾ(＾∇＾)</h1>
-<h3 align="center">B.Tech in Computer Science (Specialization in DevOps) | DevOps & Full-Stack Enthusiast</h3>
+<h3 align="center">Computer Science Undergrad specialising in DevOps  | DevOps & Full-Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-DevOps-blue?style=flat-square" />
