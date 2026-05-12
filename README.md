@@ -2,7 +2,8 @@
 <!-- ![Banner](https://your-link-here/banner.png) -->
 
 <h1 align="center">Hi, I'm Aditi ヾ(＾∇＾)</h1>
-<h3 align="center">Computer Science Undergrad specialising in DevOps  | DevOps & Full-Stack Enthusiast | 🌐 My Portfolio
+<h3 align="center">Computer Science Undergrad specialising in DevOps  | DevOps & Full-Stack Enthusiast</h3>
+<h3 align="center">🌐 My Portfolio
 
 [![Portfolio Website](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://Aditi-N-28.github.io/Portfolio/)</h3>
 
