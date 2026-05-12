@@ -88,9 +88,7 @@
 
 ## Quote of the Day:
 
+
 <p align="center">
-  <img src="https://vercel.app" alt=""/>
-</p>
-<p align="center">
-  <a href="https://github.com">Quotes README Widget</a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
