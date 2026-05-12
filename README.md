@@ -73,15 +73,13 @@
 ---
 
 ## GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
+  <img src="https://vercel.app" alt="Aditi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditi-N-28&theme=rogue" alt="Aditi's Contribution Graph"/>
+  <img src="https://vercel.app" alt="Aditi's Contribution Graph"/>
 </p>
--->
 
 ---
 
