@@ -76,7 +76,7 @@
 
  ---
 
-## GitHub Stats
+## GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
@@ -94,3 +94,4 @@
 <p align="center">
   <a href="https://github.com">Quotes README Widget</a>
 </p>
+
