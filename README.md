@@ -79,8 +79,8 @@
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-N-28&theme=radical" alt="Aditi's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-N-28&show_icons=true&theme=radical" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-N-28&theme=radical" alt=""/>
 </p>
 
 
@@ -89,9 +89,8 @@
 ## Quote of the Day:
 
 <p align="center">
-  <img src="https://vercel.app" alt="Sakura Quote of the Day"/>
+  <img src="https://vercel.app" alt=""/>
 </p>
 <p align="center">
   <a href="https://github.com">Quotes README Widget</a>
 </p>
-
