@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-DevOps-lightblue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Full%20Stack-lightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Cloud%20Automation-lightorange?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Cloud%20Automation-orange?style=flat-square" />
 </p>
 <h3 align="center">🌐 My Portfolio
 
