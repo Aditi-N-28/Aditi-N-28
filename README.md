@@ -1,13 +1,12 @@
-<!-- Banner / Header image (optional) -->
-<!-- ![Banner](https://your-link-here/banner.png) -->
+
 
 <h1 align="center">Hi, I'm Aditi ヾ(＾∇＾)</h1>
 <h3 align="center">Computer Science Undergrad specialising in DevOps  | DevOps & Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-DevOps-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Full%20Stack-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Cloud%20Automation-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DevOps-lightblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Full%20Stack-lightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Cloud%20Automation-lightorange?style=flat-square" />
 </p>
 <h3 align="center">🌐 My Portfolio
 
